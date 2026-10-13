@@ -14,4 +14,9 @@ After
 
 looks easy for now
 
-and also I added an Suprise Project that takes the value of i and if its even led blink else it closes and everytime loop ends i increases by one.
+I added an Suprise Project that takes the value of i and if its even led blink else it closes and everytime loop ends i increases by one and also every time led blinks buzzer is on.
+
+<img width="714" height="618" alt="image" src="https://github.com/user-attachments/assets/679b15b9-a0da-4179-ba3f-f815f97f4b98" />
+
+
+
