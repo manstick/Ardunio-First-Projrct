@@ -13,3 +13,5 @@ After
 
 
 looks easy for now
+
+and also I added an Suprise Project that takes the value of i and if its even led blink else it closes and everytime loop ends i increases by one.
